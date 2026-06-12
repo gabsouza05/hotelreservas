@@ -214,7 +214,7 @@ ou utilize a extensão **Live Server** do VS Code.
 
 Os wireframes utilizados no desenvolvimento encontram-se na pasta:
 
-## Tela Inicial
+## Tela de Quartos
 
 ![Wireframe 1](wireframes/1.png)
 
@@ -226,25 +226,25 @@ Os wireframes utilizados no desenvolvimento encontram-se na pasta:
 
 ---
 
-## Listagem de Reservas
+## Listagem de Quartos
 
 ![Wireframe 3](wireframes/3.png)
 
 ---
 
-## Cadastro de Reserva
+## Tela de Reserva
 
 ![Wireframe 4](wireframes/4.png)
 
 ---
 
-## Protótipo 5
+## Cadastro de Reserva
 
 ![Wireframe 5](wireframes/5.png)
 
 ---
 
-## Protótipo 6
+## Listagem de Reserva
 
 ![Wireframe 6](wireframes/6.png)
 
