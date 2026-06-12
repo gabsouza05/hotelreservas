@@ -220,7 +220,7 @@ Os wireframes utilizados no desenvolvimento encontram-se na pasta:
 
 ---
 
-## Cadastro de Quarto
+## Cadastro de Quartos
 
 ![Wireframe 2](wireframes/2.png)
 
@@ -232,19 +232,19 @@ Os wireframes utilizados no desenvolvimento encontram-se na pasta:
 
 ---
 
-## Tela de Reserva
+## Tela de Reservas
 
 ![Wireframe 4](wireframes/4.png)
 
 ---
 
-## Cadastro de Reserva
+## Cadastro de Reservas
 
 ![Wireframe 5](wireframes/5.png)
 
 ---
 
-## Listagem de Reserva
+## Listagem de Reservas
 
 ![Wireframe 6](wireframes/6.png)
 
